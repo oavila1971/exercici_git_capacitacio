@@ -21,3 +21,5 @@ El teu primer repositori Git (linea comandes):
 4. Crear un fitxer de text (.txt) en aquesta carpeta.
 
 5. Fer un commit i push per a pujar els canvis al repositori remot de GitHub.
+
+FAIG UNA MODIFICACIÓ AL FITXER DE LA 'BRANCH1'
